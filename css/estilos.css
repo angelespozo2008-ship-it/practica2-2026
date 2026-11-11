@@ -142,3 +142,12 @@ footer{
     padding:10px;
     
 }
+.footer-iconos a {
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.footer-iconos a svg {
+    display: block;
+}
